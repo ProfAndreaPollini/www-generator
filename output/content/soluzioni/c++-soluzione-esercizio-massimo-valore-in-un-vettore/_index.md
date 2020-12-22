@@ -1,6 +1,6 @@
 ---
 title: "[c++] soluzione esercizio: Massimo valore in un vettore"
-date: "2020-12-16T08:09:40.497754+00:00"
+date: "2020-12-22T07:19:17.986489+00:00"
 summary: ""
 type: "soluzione"
 
@@ -79,9 +79,9 @@ int main()
 
 
 
-
-
 *	[[python] soluzione esercizio: Massimo valore in un vettore](/soluzioni/python-massimo-valore-in-un-vettore)
+
+
 
 
 

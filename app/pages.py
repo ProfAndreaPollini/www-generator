@@ -126,9 +126,10 @@ class ExercisesByLanguage(Page):
 	def __init__(self, language,section):
 		self.page_language = language
 		super().__init__("esercizi", "exercises_by_language", "",slug=language,  layout="exercises_by_language.md")
+		self.set("aliases",[f"esercizi-linguaggio-{self.page_language}"])
 
 	def slug(self):
-		return f"/esercizi-{self.page_language}"
+		return f"esercizi-{self.page_language}"
 
 	@property
 	def pages_by_category(self):
