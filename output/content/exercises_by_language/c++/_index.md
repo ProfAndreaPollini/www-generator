@@ -1,6 +1,6 @@
 ---
 title: ""
-date: "2020-12-22T07:19:17.986489+00:00"
+date: "2020-12-22T07:36:04.662145+00:00"
 summary: ""
 type: "exercises_by_language"
 
@@ -35,12 +35,24 @@ aliases:
 
 
 
+* [esercizi sugli array](/category/esercizi-sugli-array) (1)
+
+
+
+
 
 
 ### esercizi sui vettori
 
 
-[Massimo valore in un vettore](/esercizi/trovare-il-massimo-di-un-vettore)
+[Inizializzare gli elementi di un array in una sola istruzione](/esercizi/trovare-il-massimo-di-un-vettore)
+
+
+
+### esercizi sugli array
+
+
+[Inizializzare gli elementi di un array in una sola istruzione](/esercizi/trovare-il-massimo-di-un-vettore)
 
 
 

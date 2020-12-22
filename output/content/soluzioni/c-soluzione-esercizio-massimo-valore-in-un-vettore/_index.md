@@ -1,6 +1,6 @@
 ---
 title: "[c] soluzione esercizio: Massimo valore in un vettore"
-date: "2020-12-22T07:19:17.986489+00:00"
+date: "2020-12-22T07:36:04.662145+00:00"
 summary: ""
 type: "soluzione"
 
@@ -15,6 +15,10 @@ tags:
 - "esercizio"
 
 - "vettori"
+
+- "fondamenti del linguaggio"
+
+- "Esercizi sugli array"
 
 
 
@@ -41,28 +45,16 @@ Trovare il valore massimo in un vettore di elementi.
 
 ## 
 
+Inizializzare tutti gli elementi di un array a 0 in C è una operazione che necessita di una sola riga. L'unica accortezza è utilizzare sempre il compilatore nell'ultima versione disponibile, altrimenti potresti incontrare alcune spiecevoli sorprese. 
+
 ### codice sorgente completo
 <details>
 <summary>Clicca per vedere il codice!</summary>
 
-```C
-#include <stdio.h>
+```cpp
 
-int main()
-{
-	int values[5] = {1,2,3,5,4};
-
-	int max_value = values[0];
-
-	for (int i =0; i < 5;i++){
-		if(values[i] > max_value) {
-			max_value = values[i];
-		}
-	}
-
-	printf("max value = %d\n",max_value);
-
-	return 0;
+int main() {
+  int pippo[3] = {0};
 }
 ```
 
@@ -73,14 +65,6 @@ int main()
 ### soluzioni in altri linguaggi
 
 
-
-
-
-*	[[python] soluzione esercizio: Massimo valore in un vettore](/soluzioni/python-massimo-valore-in-un-vettore)
-
-
-
-*	[[c++] soluzione esercizio: Massimo valore in un vettore](/soluzioni/c++-massimo-valore-in-un-vettore)
 
 
 

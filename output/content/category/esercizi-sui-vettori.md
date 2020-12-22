@@ -1,6 +1,6 @@
 ---
 title: "esercizi sui vettori"
-date: "2020-12-22T07:19:17.986489+00:00"
+date: "2020-12-22T07:36:04.662145+00:00"
 summary: ""
 type: "category"
 
